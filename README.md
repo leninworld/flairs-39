@@ -1,3 +1,3 @@
-# flairs-38
+# flairs-39
 
-FLAIRS conference for year 2025
+FLAIRS conference for year 2026
